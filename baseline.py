@@ -1,3 +1,12 @@
+"""
+#
+# baseline.py
+#
+# Copyright (c) 2020 Antoine Emil Zambelli. MIT License.
+#
+"""
+
+
 import sc2reader
 import pandas as pd
 
